@@ -1,0 +1,21 @@
+@media (max-width : 600px) {
+    nav{
+        padding: 10px 18px;
+    }
+    .nav1 h4{
+        font-size: 12px;
+    }
+    .nav1 img{
+        height: 30px;
+    }
+    .nav1{
+        gap: 5px;
+    }
+    .nav2{
+        display: none;
+    }
+    .nav3{
+        display: flex;
+        gap: 13px;
+    }
+}
